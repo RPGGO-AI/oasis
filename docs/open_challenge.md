@@ -300,3 +300,8 @@ We aim to support the following two evaluation modes:
     }
 }
 ```
+
+
+## 5. Reading materials
+- Building effective agents, https://www.anthropic.com/research/building-effective-agents?continueFlag=0a087cdc337f723079a6a8e726b24572
+- From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge, https://arxiv.org/abs/2411.16594
